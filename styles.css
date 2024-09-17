@@ -1,27 +1,4 @@
-h1 {
-    font-family: 'Courier New';
-}
-
-h2 {
-    font-family: Arial;
-}
-
-h3 {
-    font-family: Impact;
-}
-
-h4 {
-    font-family: "Arial Black";
-}
-
 p {
-    font-family: Georgia;
-}
-
-td {
-    font-family: Verdana;
-}
-
-tr {
-    font-family: "Trebuchet MS";
+    font-size: 30px;
+    line-height: 45px;
 }
