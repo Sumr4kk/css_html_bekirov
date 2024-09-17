@@ -1,21 +1,13 @@
-h1 {
-    text-align: right;
-}
-
-h2 {
-    text-align: center;
-    width: 300px;
-}
-
 table {
     width: 500px;
+    height: 300px;
+}
+
+td {
+    font-weight: bold;
+    text-align: center;
 }
 
 th {
-    text-align: left;
-}
-
-p {
-    width: 300px;
-    text-align: justify;
+    font-weight: normal;
 }
