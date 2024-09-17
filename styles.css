@@ -1,7 +1,8 @@
 p {
-    color: rgb(255, 158, 0);
+    width: 300px;
 }
 
-h1 {
-    color: #8805a8
+td {
+    width: 400px;
+    height: 300px;
 }
