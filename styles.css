@@ -83,3 +83,11 @@ p .bbb {
 #block {
     color: blue;
 }
+
+#elem h2 {
+    color: red;
+}
+
+#elem .text {
+    color: blue;
+}
