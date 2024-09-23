@@ -88,6 +88,10 @@ p .bbb {
     color: red;
 }
 
-#elem .text {
+#elem p.text {
+    color: red;
+}
+
+#elem li.text {
     color: blue;
 }
