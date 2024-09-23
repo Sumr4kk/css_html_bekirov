@@ -6,10 +6,6 @@
     color: green;
 }
 
-.eee {
-    color: red;
-}
-
 .xxx {
     font-size: 30px;
 }
@@ -32,4 +28,17 @@
 
 .div_2_4 {
     color: green;
+}
+
+.eee, .zzz {
+    line-height: 1.5;
+    font-family: Arial;
+}
+
+.eee {
+    font-size: 20px;
+}
+
+.zzz {
+    font-size: 30px;
 }
