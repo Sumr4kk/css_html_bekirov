@@ -1,47 +1,23 @@
-.odd {
+.eee .bbb {
+    color: red;
+  }
+
+  .eee h2 {
+	color: red;
+}
+
+.eee h2.bbb {
+	color: red;
+}
+
+.eee h3.bbb {
     color: red;
 }
 
-.eve {
-    color: green;
-}
-
-.xxx {
-    font-size: 30px;
-}
-
-.div1 {
+.eee p.bbb {
     color: red;
 }
 
-.div2 {
-    color: green;
-}
-
-.div3 {
-    color: aqua;
-}
-
-.div_1_3 {
-    color: red;
-}
-
-.div_2_4 {
-    color: green;
-}
-
-.header {
-    color: red;
-}
-
-h2.header {
-    font-size: 40px;
-}
-
-h3.header {
-    font-size: 30px;
-}
-
-.eee i {
+.eee .bbb .kkk {
     color: red;
 }
