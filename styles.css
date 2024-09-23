@@ -30,8 +30,8 @@
     color: green;
 }
 
-.eee, .zzz {
-    line-height: 1.5;
+.eee, .zzz, .ggg {
+    text-align: center;
     font-family: Arial;
 }
 
@@ -41,4 +41,8 @@
 
 .zzz {
     font-size: 30px;
+}
+
+.ggg {
+    font-size: 35px;
 }
