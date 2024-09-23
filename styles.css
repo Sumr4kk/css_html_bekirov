@@ -74,3 +74,12 @@ p .bbb {
 #elem3 {
     color: aqua;
 }
+
+.text {
+    font-size: 30px;
+    text-align: center;
+}
+
+#block {
+    color: blue;
+}
