@@ -37,3 +37,28 @@ p .bbb {
 .eee p .bbb {
     color: red;
 }
+
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+
+.color_blue {
+    color: blue;
+}
+
+.center {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
