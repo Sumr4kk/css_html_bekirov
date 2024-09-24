@@ -1,173 +1,32 @@
-.eee .bbb {
-    color: red;
-  }
-
-  .eee h2 {
-	color: red;
-}
-
-.eee h2.bbb {
-	color: red;
-}
-
-.eee h3.bbb {
-    color: red;
-}
-
-.eee p.bbb {
-    color: red;
-}
-
-.eee .bbb .kkk {
-    color: red;
-}
-
-p.bbb {
-    color: red;
-}
-
-p .bbb {
-    color: red;
-}
-
-.eee p.bbb {
-    color: red;
-}
-
-.eee p .bbb {
-    color: red;
-}
-
-.success {
-	color: green;
-}
-.error {
-	color: red;
-}
-.large {
-	font-size: 30px;
-}
-.small {
-	font-size: 20px;
-}
-
-.color_blue {
-    color: blue;
-}
-
-.center {
+#block h1, #block h2, #block h3 {
     text-align: center;
-}
-
-.bold {
-    font-weight: bold;
-}
-
-#elem1 {
-    color: red;
-}
-
-#elem2 {
-    color: green;
-}
-
-#elem3 {
-    color: aqua;
-}
-
-.text {
-    font-size: 30px;
-    text-align: center;
-}
-
-#block {
-    color: blue;
-}
-
-#elem h2 {
-    color: red;
-}
-
-#elem p.text {
-    color: red;
-}
-
-#elem li.text {
-    color: blue;
-}
-
-.eee.zzz.ccc {
-    color: orange;
-}
-
-.bbb.zzz {
-    color: red;
-}
-
-h2.bbb.zzz {
-	color: red;
-}
-
-#elem.bbb {
-	color: red;
-}
-
-#elem.bbb.zzz {
-	color: red;
-}
-
-h2#elem.bbb {
-	color: red;
-}
-
-h2.zzz {
-	color: red;
-}
-
-h2 .zzz {
-	color: red;
-}
-
-.bbb.zzz {
-	color: red;
-}
-
-.bbb .zzz {
-	color: red;
-}
-
-.bbb.zzz.xxx {
-	color: red;
-}
-
-.bbb .zzz.xxx {
-	color: red;
-}
-
-.bbb.zzz .xxx {
-	color: red;
-}
-
-.bbb .zzz .xxx {
-	color: red;
-}
-
-#elem.bbb {
-	color: red;
-}
-
-#elem .bbb {
-	color: red;
-}
-
-#block h1 #block h2 {
-    text-align: center;
-}
-
-#block h1 {
-    font-size: 30px;
 }
 
 #block h2 {
+    color: blue;
+}
+
+#block h3 {
+    color: red;
+    font-size: 16px;
+}
+
+#block h1.eee, #block h2.zzz {
+    text-align: center;
+}
+
+#block h1.eee {
+    font-size: 30px;
+}
+
+#block h2.zzz {
     font-size: 20px;
+}
+
+.xxx .kkk, .eee h2.zzz, #eee h2 {
+    text-align: center;
+}
+
+.eee h2.zzz, .xxx {
+    text-align: center;
 }
