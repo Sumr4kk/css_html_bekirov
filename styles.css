@@ -13,3 +13,31 @@
 main p {
     color: red;
 }
+
+*[title] {
+    color: red;
+}
+
+p[title] {
+    color: red;
+}
+
+p[title='hello'] {
+    color: red;
+}
+
+a[href^='http://'] {
+    color: red;
+}
+
+a[href$='.html'] {
+    color: red;
+}
+
+p[title*='hello'] {
+    color: red;
+}
+
+p[class^='top-'] {
+    color: red;
+}
