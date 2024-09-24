@@ -1,43 +1,16 @@
-#elem + li {
+a:hover {
+    text-decoration: none;
     color: red;
 }
 
-.elem + li {
-    color: red;
+a:link {
+    color: aqua;
 }
 
-#elem ~ li {
-    color: red;
+a:visited {
+    color: green;
 }
 
-main p {
-    color: red;
-}
-
-*[title] {
-    color: red;
-}
-
-p[title] {
-    color: red;
-}
-
-p[title='hello'] {
-    color: red;
-}
-
-a[href^='http://'] {
-    color: red;
-}
-
-a[href$='.html'] {
-    color: red;
-}
-
-p[title*='hello'] {
-    color: red;
-}
-
-p[class^='top-'] {
-    color: red;
+a:active {
+    color: black;
 }
