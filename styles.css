@@ -29,3 +29,27 @@
     border-style: double;
     border-color: blue;
 }
+
+#elem97_1 {
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+
+#elem97_2 {
+    width: 300px;
+    height: 200px;
+    border: 2px dotted blue;
+}
+
+#elem97_3 {
+    width: 300px;
+    height: 200px;
+    border: 3px dashed green;
+}
+
+#elem97_4 {
+    width: 300px;
+    height: 200px;
+    border: 5px double orange;
+}
