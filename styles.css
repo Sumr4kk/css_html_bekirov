@@ -106,3 +106,10 @@
     border: 1px solid green;
     border-radius: 10px 30px;
 }
+
+#elem105 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 10px 30px 20px;
+}
