@@ -31,6 +31,6 @@ body {
 	height: 150px;
 }
 
-ul {
-    list-style-type: lower-roman;
+ol {
+    list-style-type: upper-roman;
 }
