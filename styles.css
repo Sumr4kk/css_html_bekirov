@@ -52,3 +52,25 @@
     height: 50px;
     border: 1px dashed blue;
 }
+
+#parent130_1 {
+    width: 200px;
+    border: 1px solid orange;
+}
+
+#child130_1 {
+    margin: 100px 50px;
+    height: 50px;
+    border: 1px dashed blue;
+}
+
+#parent130_2 {
+    width: 200px;
+    border: 1px solid orange;
+}
+
+#child130_2 {
+    margin: 25px 50px;
+    height: 50px;
+    border: 1px dashed blue;
+}
