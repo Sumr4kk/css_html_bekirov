@@ -150,3 +150,12 @@
     text-align: justify;
     padding: 10px 20px 40px;
 }
+
+#elem138 {
+	width: 100px;
+	height: 100px;
+	background: grey;
+	padding: 20px;
+	border: 10px solid red;
+	box-sizing: border-box;
+}
