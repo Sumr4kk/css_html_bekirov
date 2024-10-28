@@ -129,3 +129,24 @@
     border: 1px solid red;
     text-align: justify;
 }
+
+#elem134_1 {
+    width: 300px;
+    border: 1px solid red;
+    text-align: justify;
+    padding: 10px 20px 30px 40px;
+}
+
+#elem134_2 {
+    width: 300px;
+    border: 1px solid red;
+    text-align: justify;
+    padding: 60px 30px;
+}
+
+#elem134_3 {
+    width: 300px;
+    border: 1px solid red;
+    text-align: justify;
+    padding: 10px 20px 40px;
+}
