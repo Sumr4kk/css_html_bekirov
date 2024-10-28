@@ -236,3 +236,29 @@
     margin-left: 5px;
     margin-right: 5px;
 }
+
+.parent165_1 {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+    padding-right: 10px;
+}
+.child165_1 {
+	padding: 10px;
+	border: 1px solid green;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.parent165_4 {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+.child165_4 {
+	width: 100px;
+	padding: 10px;
+	border: 1px solid green;
+    display: inline-block;
+    text-align: center;
+}
