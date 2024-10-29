@@ -1,3 +1,11 @@
+.h1, .h1_1 {
+    margin-top: 100px;
+}
+
+.h1_2 {
+    margin-top: 150px;
+}
+
 #parent {
     width: 200px;
     border: 1px solid orange;
@@ -394,5 +402,108 @@
 .child176 {
     width: 120px;
     height: 60px;
+    border: 1px solid green;
+}
+
+#elem177_1_1 {
+    width: 50px;
+    height: 50px;
+    border: 1px solid red;
+}
+
+#elem177_1_2 {
+    margin-top: 10px;
+    position: absolute;
+    left: 80px;
+    
+    width: 50px;
+    height: 50px;
+    border: 1px solid blue;
+}
+
+#elem177_1_3 {
+    margin-top: 70px;
+    position: absolute;
+    left: 160px;
+    
+    width: 50px;
+    height: 50px;
+    border: 1px solid green;
+}
+
+#elem177_2_1 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 1px solid red;
+
+}
+#elem177_2_2 {
+    position: absolute;
+    left: 80px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid blue;
+}
+
+#elem177_2_3 {
+    position: absolute;
+    left: 160px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid green;
+}
+
+#elem177_3_1 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 1px solid red;
+}
+
+#elem177_3_2 {
+    position: absolute;
+    left: 35px;
+    margin-top: 30px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid blue;
+}
+
+#elem177_3_3 {
+    margin-top: 60px;
+    position: absolute;
+    left: 65px;
+    
+    width: 50px;
+    height: 50px;
+    border: 1px solid green;
+}
+
+#elem177_4_1 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: red ;
+    border: 1px solid red;
+}
+
+#elem177_4_2 {
+    position: absolute;
+    left: 35px;
+    margin-top: 30px;
+    width: 50px;
+    background-color: blue ;
+    height: 50px;
+    border: 1px solid blue;
+}
+
+#elem177_4_3 {
+    margin-top: 60px;
+    position: absolute;
+    left: 65px;
+    background-color: green ;
+    width: 50px;
+    height: 50px;
     border: 1px solid green;
 }
