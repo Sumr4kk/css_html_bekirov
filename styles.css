@@ -1452,7 +1452,7 @@
 
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: 200px 200px;
     gap: 10px;
 }
   
