@@ -925,3 +925,19 @@
     height: 50px;
     position: absolute;
 }
+
+.left-image {
+    float: left;
+    margin-right: 20px;
+}
+  
+.right-image {
+    float: right;
+    margin-left: 20px;
+}
+  
+.content189 {
+    width: 80%;
+    margin: 0 auto;
+}
+  
