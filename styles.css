@@ -1449,3 +1449,16 @@
 	order: 1;
 	border: 1px solid red;
 }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+  
+.grid-item {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+  
