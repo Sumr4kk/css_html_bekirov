@@ -1501,7 +1501,7 @@
 
 .grid-container225 {
     display: grid;
-    grid-template-columns: 20% 1fr 1fr;
+    grid-template-columns: 100px 20% 1fr 2fr 4fr;
     gap: 10px;
 }
   
