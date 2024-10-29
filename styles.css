@@ -1915,3 +1915,15 @@
     text-align: center;
 }
   
+.grid-container238 {
+    display: grid;
+    grid-template-rows: 1fr 25% 1fr;
+    gap: 10px;
+}
+  
+.grid-item238 {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+  
