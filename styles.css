@@ -289,3 +289,15 @@
     height: 100px;
     border: 1px solid green;
 }
+
+.parent168 {
+    display: flex;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+
+.child168 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
