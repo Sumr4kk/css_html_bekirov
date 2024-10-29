@@ -1585,4 +1585,58 @@
     padding: 20px;
     text-align: center;
 }
+
+#parent232_1 {
+    display: grid;
+    grid-template: 1fr 2fr / 0.5fr 1fr 1fr 2fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    margin: 0 auto;
+    width: 600px;
+    height: 200px;
+}
   
+.child232_1 {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+#parent232_2 {
+    display: grid;
+    grid-template: 1fr 2fr / 2fr 1fr 1fr 2fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    margin: 0 auto;
+    width: 600px;
+    height: 200px;
+}
+
+#parent232_3 {
+    display: grid;
+    grid-template: 1fr 1fr 2fr 4fr / 0.5fr 1.5fr 3fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    margin: 0 auto;
+    width: 600px;
+    height: 300px;
+}
+
+#parent232_4 {
+    display: grid;
+    grid-template: 2fr 1fr 1fr / 2fr 1fr 2fr 1fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    margin: 0 auto;
+    width: 600px;
+    height: 300px;
+}
+
+#parent232_5 {
+    display: grid;
+    grid-template: 2fr 1fr / repeat(2, 0.5fr) 1fr repeat(2, 2fr);
+    border: 2px solid #696989;
+    padding: 10px;
+    margin: 0 auto;
+    width: 600px;
+    height: 300px;
+}
