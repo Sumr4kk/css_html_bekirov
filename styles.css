@@ -1559,4 +1559,17 @@
     text-align: center;
 }
   
+.grid-container230 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-auto-rows: 50px;
+    gap: 10px;
+    width: 320px;
+}
+  
+.grid-item230 {
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+}
   
