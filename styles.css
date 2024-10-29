@@ -801,3 +801,32 @@
     height: 30px;
     border: 1px solid red;
 }
+
+#wrapper184 {
+    position: relative;
+    width: 400px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid green;
+    text-align: justify;
+}
+
+#elem184_1 {
+    position: fixed;
+    margin-top: 350px;
+    left: 200px;
+    top: 10px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+}
+
+#elem184_2 {
+    position: fixed;
+    margin-top: 350px;
+    right: 200px;
+    top: 10px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+}
