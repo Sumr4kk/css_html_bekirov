@@ -381,3 +381,18 @@
     height: 60px;
     border: 1px solid green;
 }
+
+.parent176 {
+    display: flex;
+    justify-content: space-evenly;
+    width: 900px;
+    height: 200px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+
+.child176 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
