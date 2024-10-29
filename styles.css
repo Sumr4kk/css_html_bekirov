@@ -1487,4 +1487,15 @@
     text-align: center;
 }
   
+.grid-container224 {
+    display: grid;
+    grid-template-columns: 100px 1fr 1fr;
+    gap: 10px;
+}
+  
+.grid-item224 {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
   
