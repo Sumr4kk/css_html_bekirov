@@ -725,3 +725,28 @@
     border-radius: 150px;
     z-index: 2;
 }
+
+.parent180 {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background-color: lightgray;
+  }
+  
+  .child180_1, .child180_2 {
+    width: 50px;
+    height: 50px;
+    background-color: darkgray;
+    position: absolute;
+  }
+  
+  .child180_1 {
+    top: 0;
+    right: 0;
+  }
+  
+.child180_2 {
+    bottom: 0;
+    left: 0;
+}
+  
