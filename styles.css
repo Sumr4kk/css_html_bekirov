@@ -776,4 +776,28 @@
     background-color: lightcoral;
 }
   
-  
+#wrapper183 {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    border: 1px solid green;
+}
+
+#elem183_1 {
+    position: absolute;
+    left: -50px;
+    top: 0;
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+}
+
+#elem183_2 {
+    position: absolute;
+    right: -50px;
+    top: 0;
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+}
