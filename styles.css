@@ -1902,3 +1902,16 @@
 #elem236_3_5 {
     grid-column: 2 / 5;
 }
+
+.grid-container237 {
+    display: grid;
+    grid-template-columns: 1fr 20% 1fr;
+    gap: 10px;
+}
+  
+.grid-item237 {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+  
