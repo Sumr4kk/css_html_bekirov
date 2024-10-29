@@ -507,3 +507,26 @@
     height: 50px;
     border: 1px solid green;
 }
+
+#elem178_1 {
+    position: relative;
+	width: 100px;
+	height: 100px;
+	background-color: #FF8888;
+}
+#elem178_2 {
+    position: relative;
+	width: 100px;
+	height: 100px;
+	bottom: 30px;
+    left: 40px;
+	background-color: #7E89EB;
+}
+#elem178_3 {
+    position: relative;
+	width: 100px;
+	height: 100px;
+	bottom: 50px;
+    left: 100px;
+	background-color: #4DEE99;
+}
