@@ -1927,3 +1927,30 @@
     text-align: center;
 }
   
+.grid-container239_1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 10px;
+}
+  
+.grid-item239_1 {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+  
+.grid-container239_2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    column-gap: 10px;
+    row-gap: 5%;
+}
+  
+.grid-item239_2 {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+  
