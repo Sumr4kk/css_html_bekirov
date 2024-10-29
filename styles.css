@@ -1450,13 +1450,25 @@
 	border: 1px solid red;
 }
 
-.grid-container {
+.grid-container221 {
     display: grid;
     grid-template-columns: 100px 150px 200px;
     gap: 10px;
 }
   
-.grid-item {
+.grid-item221 {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+  
+.grid-container222 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+  
+.grid-item222 {
     background-color: lightblue;
     padding: 20px;
     text-align: center;
