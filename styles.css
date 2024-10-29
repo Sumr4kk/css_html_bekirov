@@ -1477,7 +1477,7 @@
   
 .grid-container223 {
     display: grid;
-    grid-template-columns: 1fr 1fr 1.5fr;
+    grid-template-columns: 1fr 1.5fr 2.5fr;
     gap: 10px;
 }
   
