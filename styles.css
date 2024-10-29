@@ -1954,3 +1954,30 @@
     text-align: center;
 }
   
+#parent240_1 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    border: 2px solid #696989;
+}
+
+#parent240_1 > div {
+    height: 100px;
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+#parent240_2 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) 2fr 3fr;
+    grid-gap: 10px;
+    border: 2px solid #696989;
+}
+
+#parent240_2 > div {
+    height: 100px;
+    padding: 10px;
+    border: 1px solid #696989;
+}
