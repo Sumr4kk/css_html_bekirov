@@ -1523,4 +1523,15 @@
     text-align: center;
 }
   
+.grid-container227 {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 10px;
+}
+  
+.grid-item227 {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
   
