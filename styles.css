@@ -2040,3 +2040,40 @@
 #menu241_3 a:hover, #menu241_3 a.active {
     background-color: #16785C;
 }
+
+#menu242_1 {
+    display: flex;
+    margin-bottom: 20px;
+    background-color: #484848;
+}
+
+#wrapper242_1 {
+    width: 700px;
+    margin: 50px auto;
+    text-align: justify;
+    border: 1px solid black;
+}
+
+#menu242_1 a:hover, #menu242_1 a.active {
+    color: #484848;
+    background-color: #fff;
+}
+
+#menu242_1 a {
+    padding: 10px 25px;
+    text-decoration: none;
+    color: #fff;
+    font: bold 14px Arial;
+}
+
+#h1_242_1 {
+    text-align: center;
+}
+
+.span242_1 {
+    color: blue;
+}
+
+#margin242_1 {
+    margin: 10px 10px 10px 10px;
+}
